@@ -1,3 +1,5 @@
+![Bannière AirBnB](https://github.com/NoChip247/AirBnB-Avec-Python/blob/f38983a03b0a42c315b00fc37e2f4ad97adfa671/assets/images/Gemini_Generated_Image_nc9ynunc9ynunc9y.png)
+
 ### 🏠 AirBnB
 
 - Exercice d’analyse d’une base de donnée utilisateurs AirBnB
